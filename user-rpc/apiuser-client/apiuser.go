@@ -6,7 +6,7 @@ package apiuserclient
 import (
 	"context"
 
-	"store/api/pb/apiuser"
+	"github.com/smartgreeting/store-pb/user-rpc/apiuser"
 
 	"github.com/tal-tech/go-zero/zrpc"
 )
